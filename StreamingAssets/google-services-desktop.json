@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000995403574",
+    "project_id": "platformer-6fcfa",
+    "storage_bucket": "platformer-6fcfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000995403574:android:41ff4b885f1da7a365e597",
+        "android_client_info": {
+          "package_name": "com.WhiteBirdsGame.DeepCave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000995403574-de7ktnbabvhtqf484e7glod2ahtv5gho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNH49W0bC7lawckwge-Bga1npC3iSLMGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000995403574-de7ktnbabvhtqf484e7glod2ahtv5gho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
